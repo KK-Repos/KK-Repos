@@ -15,7 +15,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on Quality Assurance at Cognizant
+- 🔭 I’m currently working on Quality Assurance at Klenty
 - 📫 How to reach me: [LinkedIn - iamkishorekumar](https://www.linkedin.com/in/iamkishorekumar/) , Website - [iamkishorekumar.in](https://www.iamkishorekumar.in/)
 
 
