@@ -16,7 +16,7 @@
 <br/>
 
 - 🔭 I’m currently working on Quality Assurance at Klenty
-- 📫 How to reach me: [LinkedIn - iamkishorekumar](https://www.linkedin.com/in/iamkishorekumar/) , Website - [iamkishorekumar.in](https://www.iamkishorekumar.in/)
+- 📫 How to reach me: [LinkedIn - iamkishorekumar](https://www.linkedin.com/in/iamkishorekumar/) , Website - [iamkishorekumar.in](https://iamkishorekumar.in/)
 
 
 
