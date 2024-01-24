@@ -21,7 +21,7 @@
 
 
 ## ⚡ Connect with me
-<img src="https://img.shields.io/badge/contact@iamkishorekumar.in-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="contact@iamkishorekumar.in">   <a href="https://www.linkedin.com/in/iamkishorekumar/"><img src="https://img.shields.io/badge/Sharannyo Basu-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
+<img src="https://img.shields.io/badge/contact@iamkishorekumar.in-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="contact@iamkishorekumar.in">   <a href="https://www.linkedin.com/in/iamkishorekumar/"><img src="https://img.shields.io/badge/iamkishorekumar-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 
 
 ------
