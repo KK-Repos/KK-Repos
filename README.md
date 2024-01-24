@@ -1,4 +1,4 @@
-### Bonjour there,I'm [Kishore Kumar ](https://www.iamkishorekumar.in/) <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
+### Bonjour there,I'm [Kishore Kumar ](https://www.iamkishorekumar.in/)
 
 <br/>
 
