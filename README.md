@@ -1,17 +1,6 @@
 ### Bonjour there,I'm [Kishore Kumar ](https://www.iamkishorekumar.in/) <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
 
 
-<p align="center"> 
-  <samp>
-    Profile Views Count
-  </samp>
-</p>
-
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/iamkishorekumar-git/count.svg" alt="Kishore's profile views" /> 
-</p>
-
-
 <br/>
 <br/>
 
@@ -38,12 +27,19 @@
 [![Gmail Badge](https://img.shields.io/badge/-contact@iamkishorekumar.in-d14836?style=flat-square&logo=Gmail&logoColor=white&link=contact@iammkishorekumar.in)](mailto:contact@iamkishorekumar.in)
 
 
+------
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KK-Repos" alt="KK-Repos" />
+    <a href="https://github.com/KK-Repos/"><img src="https://img.shields.io/github/followers/KK-Repos?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
+  <a href="https://github.com/KK-Repos/"><img src="https://img.shields.io/github/last-commit/KK-Repos/KK-Repos?style=flat-square?color=red&label=Last%20Updated%20"/></a>
+</p>
+
+-----
+
 
   
   <p align="center">
   <img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
 </p>
 
-
-
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/iamkishorekumar-git?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
