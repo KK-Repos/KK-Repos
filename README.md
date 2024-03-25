@@ -5,7 +5,7 @@
 # 💫 About Me :
 - 🔭 Working as SDET and Devops Enthusiast
 - 😄 Staying ahead of the curve
-- 📫 How to reach me: [LinkedIn - iamkishorekumar](https://www.linkedin.com/in/iamkishorekumar/) , Website - [iamkishorekumar.in](https://www.iamkishorekumar.in/)
+- 📫 How to reach me: [LinkedIn - iamkishorekumar](https://www.linkedin.com/in/iamkishorekumar/) , Website - [iamkishorekumar.in](https://iamkishorekumar.in/)
 
 
 ## 💻 Tech Stack
