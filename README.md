@@ -1,4 +1,4 @@
-### Bonjour there,I'm [Kishore Kumar ](https://www.iamkishorekumar.in/)
+### Bonjour there,I'm [Kishore Kumar ](https://iamkishorekumar.in/)
 
 <br/>
 
