@@ -3,7 +3,7 @@
 <br/>
 
 # 💫 About Me :
-- 🔭 Working as SDET and Devops Enthusiast
+- 🔭 Working as Devops Engineer
 - 😄 Staying ahead of the curve
 - 📫 How to reach me: [LinkedIn - iamkishorekumar](https://www.linkedin.com/in/iamkishorekumar/) , Website - [iamkishorekumar.in](https://iamkishorekumar.in/)
 
