@@ -13,10 +13,7 @@
 
 ## 🔥 My Contribution Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KK-Repos&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</p>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KK-Repos&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 ## ⚡ Connect with me
